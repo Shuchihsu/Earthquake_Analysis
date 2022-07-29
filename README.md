@@ -1,2 +1,2 @@
 # Earthquake_Challenge
-We used javaScript, Leaflet.js, and geoJSON to create the maps to show the earthquake data from the last 7 days. 
+We used javaScript, Leaflet.js, and geoJSON to create the maps to show the earthquake data for the last 7 days. The function on the maps include: circle size and color show the scale of the earthquake. You can change different base map to look at the earthquake locations, like in dark or bright color as background. If you click on the location itself, you can get a information like: location and magnitude.
